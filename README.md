@@ -8,7 +8,7 @@ RAM TEST
 <center>
 <h1 style="text-align:center:white;"> HAMARI HINDI </h1>
 <p style="color:green;">CLICK HERE</P>
-<a href="https://youtube.com/c/HAMARIHINDI"> <img src="C:\Users\dell\Desktop\Bharat-mata.png" width="104" height="142"> </a>
+<a href="https://youtube.com/c/HAMARIHINDI"> <img src="C:\Users\dell\Documents\GitHub\RAM-TEST\Bharat-mata.png" width="104" height="142"> </a>
 </center>
 
 
