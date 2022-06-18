@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>HAMARIHINDI</title>
-<body bgcolor=pink>
+<body bgcolor="pink">
 <center>
 <h1 style="text-align:center:white;"> HAMARI HINDI </h1>
 <p style="color:green;">CLICK HERE</P>
